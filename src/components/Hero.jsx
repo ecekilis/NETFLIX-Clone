@@ -5,7 +5,10 @@ function Hero() {
         <div className='grid grid-cols-1 md:grid-cols-2 md:max-h-[400px] gap-5 mb-10'>
             <div className='flex flex-col gap-6 justify-center items-center'>
                 <h1 className='text-3xl font-bold'>Hayali Arkadaslar</h1>
-                <p>llklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djlklj fiej ifjiojiarajfoai djklj fiej ifjiojiarajfoai dj</p>
+                <p>Yalnızlıktan muzdarip olan bir adam, hayali arkadaşlar görmenin ve
+                    onlarla konuşmanın inanılmaz gücünü keşfeder. Böylece yakınları
+                    tarafından unutulmuş birçok insanla arkadaş olur. Ancak içlerinden
+                    bazılarının karanlık tarafa geçmesi işlerin karışmasına neden olur.</p>
 
                 <p><span>IMDB</span>
                     <span className='text-yellow-400 ms-2 font-semibold'>7.4</span>

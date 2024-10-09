@@ -6,7 +6,7 @@ function Header() {
         <div>
             <header className=''>
                 <Link to="/">
-                    <img className='max-w-[150px]' src="./image.png" alt="" />
+                    <img className='max-w-[150px]' src="./netflix_logo.svg" alt="" />
                 </Link>
             </header>
         </div>

@@ -12,7 +12,7 @@ function MainPage() {
     const dispatch = useDispatch();
     const { isLoading, error, genres } = useSelector((store) => store.genres);
 
-    console.log("type:", genres)
+
 
     useEffect(() => {
         dispatch(getPopular());

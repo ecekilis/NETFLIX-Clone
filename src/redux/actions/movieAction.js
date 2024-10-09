@@ -17,7 +17,7 @@ export const getPopular = () => (dispatch) => {
             type: ActionTypes.MOVIES_SUCCESS,
             payload: res.data
         }))
-        .catch(err =>
+        .catch((err) =>
             dispatch({
                 type: ActionTypes.MOVIES_ERROR,
                 payload: err.message

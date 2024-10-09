@@ -8,8 +8,7 @@ const initialState = {
 }
 
 const genreReducer = (state = initialState, { type, payload }) => {
-    console.log("type", type);
-    console.log("payload", payload);
+
 
     switch (type) {
         case ActionTypes.GENRES_LOADING:

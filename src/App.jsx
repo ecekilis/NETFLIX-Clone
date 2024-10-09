@@ -14,7 +14,7 @@ function App() {
         <Header />
         <Routes>
           <Route path="/" element={<MainPage />} />
-          <Route path="/movies/:id" element={<DetailPage />} />
+          <Route path="/movie/:id" element={<DetailPage />} />
         </Routes>
       </div >
     </Router>
